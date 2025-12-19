@@ -1,4 +1,4 @@
-7802339e92e4109707a80ae37662c7df *DESCRIPTION
+882744a0b9b93a6ee11b0f5aec092d51 *DESCRIPTION
 684e4ab8e58a5175f6119ae900980d21 *NAMESPACE
 b1d93eb8c679812c2638a54a380c3797 *R/ReliaShiny.R
 b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
@@ -25,6 +25,7 @@ c026f7997f20e36794b6febb50f37709 *inst/app/tests/testthat/_snaps/shinytest2/shin
 7e4e7174e6c0f7a0f661a2b6940f23f8 *inst/figures/Rplot.png
 7baeefd48cc0ea3c6251b2db9be93c83 *inst/figures/hexSticker.R
 82f8c4ae2132b85529466350f0df990f *inst/figures/hexSticker.png
+7dde00b9da87d8d0fcf96d472bc01bc9 *inst/paper/paper.Rmd
 bd5f254a82680ffb7d653b94b2948165 *man/ReliaShiny.Rd
 7b67220292549b9a4e5469bf0f154495 *man/figures/logo.png
 774d9de8e95aa151215efcd304549d41 *man/pipe.Rd
